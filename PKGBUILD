@@ -12,7 +12,7 @@ depends=()
 conflicts=()
 provides=("${pkgname}")
 options=(!strip !emptydirs)
-source=(${pkgname}::"git+${url}/${pkgname}#branch=package-a")
+source=(${pkgname}::"git+${url}/${pkgname}.git#branch=package-a")
 sha256sums=('SKIP')
 package() {
 	install -dm755 ${pkgdir}${destname}
