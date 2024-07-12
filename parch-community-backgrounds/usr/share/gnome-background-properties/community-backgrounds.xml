@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+  <wallpaper deleted="false">
+    <name>Nature background 1</name>
+    <filename>/usr/share/backgrounds/nature/nature-1.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#241f31</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Nature background 2</name>
+    <filename>/usr/share/backgrounds/nature/nature-2.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#0B0021</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+    <wallpaper deleted="false">
+    <name>Nature background 3</name>
+    <filename>/usr/share/backgrounds/nature/nature-3.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#241f31</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Nature background 4</name>
+    <filename>/usr/share/backgrounds/nature/nature-4.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#0B0021</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Nature background 5</name>
+    <filename>/usr/share/backgrounds/nature/nature-5.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#0B0021</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Nature background 6</name>
+    <filename>/usr/share/backgrounds/nature/nature-6.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#0B0021</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+    <wallpaper deleted="false">
+    <name>Building background 1</name>
+    <filename>/usr/share/backgrounds/Buidlings/building-1.jpeg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#241f31</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>AI background 1</name>
+    <filename>/usr/share/backgrounds/AI/ai-1.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#0B0021</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+</wallpapers>
