@@ -1,5 +1,5 @@
 # Maintainer: Parchlinux
-pkgname=community-backgrounds
+pkgname=parch-community-backgrounds
 destname="/"
 pkgver=2
 pkgrel=0
@@ -12,7 +12,7 @@ depends=()
 conflicts=()
 provides=("${pkgname}")
 options=(!strip !emptydirs)
-source=(${pkgname}::"git+${url}/parch-community-backgrounds#branch=package-b")
+source=(${pkgname}::"git+${url}/${pkgname}#branch=package-a")
 sha256sums=('SKIP')
 package() {
 	install -dm755 ${pkgdir}${destname}
